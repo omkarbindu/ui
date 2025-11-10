@@ -1,0 +1,4 @@
+Ligand,Tanimoto_Similarity_to_GOL,Pseudo_Docking_Score_kcal_per_mol
+GOL,1.0,-12.0
+NO3,0.15,-5.2
+AA,0.02631578947368421,-4.211
